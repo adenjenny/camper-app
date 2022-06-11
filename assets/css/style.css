@@ -18,11 +18,9 @@ font-family: 'Sora', sans-serif; */
   padding: 0;
   box-sizing: border-box;
   max-width: 36rem;
-}
-
-main {
   font-family: "Nunito", sans-serif;
 }
+
 .wrapper {
   padding: 0% 2.438rem;
   border-top-left-radius: 0.75rem;
